@@ -96,7 +96,8 @@
 | **SIFT** | 124 |N/A|N/A|163|N/A|200|
 
 * TOP3 detector/descriptor combinations:
-* Old methods (SHITOMASI & HARRIS) are excluded, only modern approaches.
+* Old methods (SHITOMASI & HARRIS) are excluded, only modern approaches considered.
+
 | Detector/Descriptor  | NUMBER OF MATCHED ROI KEYPOINTS | TOTAL TIME |
 | -------------------- | -------------------- | -------- |
 |FAST+BRISK           | 97 keypoints    | 3 ms |
